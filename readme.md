@@ -41,8 +41,6 @@ Use the following command in your terminal to compile the source code:
 g++ main.cpp -o BankSystem
 ```
 
-## 👤 Author
-
-* **Developed by Bishwashree Chakraborty |**
-* **B.Tech CSE Student |**
-* **Passionate about programming and problem-solving**
+**Developed by Bishwashree Chakraborty |**
+**B.Tech CSE Student |** 
+**Passionate about programming and problem-solving**
