@@ -39,9 +39,10 @@ This application simulates core banking operations, allowing users to create acc
 Use the following command in your terminal to compile the source code:
 ```bash
 g++ main.cpp -o BankSystem.
-
 ---
 
-**Developed by Bishwashree Chakraborty |**
-**B.Tech CSE Student |**
-**Passionate about programming and problem-solving**
+## 👤 Author
+
+* **Developed by Bishwashree Chakraborty |**
+* **B.Tech CSE Student |**
+* **Passionate about programming and problem-solving**
